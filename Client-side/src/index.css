@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.my-navbar-btn{
+    @apply btn bg-transparent rounded-3xl border-primary hover:bg-primary text-textColor
+}
+
+.my-btn{
+    @apply btn text-[12px] bg-primary rounded-3xl border-primary hover:bg-tertiary text-textColor
+}
+
+.my-title{
+    @apply py-4 md:text-3xl font-bold italic text-primary text-2xl font-forum underline
+}
+
+
+.active{
+    @apply font-medium tracking-wide text-gray-900 transition-colors duration-200 bg-primary
+}
+
+.default{
+    @apply font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-primary
+}
+

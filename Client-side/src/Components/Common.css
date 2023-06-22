@@ -1,0 +1,46 @@
+/* Title style */
+.heading {
+  margin-bottom: 55px;
+  position: relative;
+}
+.heading::before {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 11px;
+  border-top-right-radius: 10px;
+  content: "";
+  height: 25px;
+  position: absolute;
+  top: 79px;
+  transform: rotate(-44deg);
+  width: 25px;
+  right: 47.70%;
+  background-color: #e7b622;
+}
+.heading::after {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  content: "";
+  height: 25px;
+  position: absolute;
+  top: 79px;
+  transform: rotate(-45deg);
+  width: 25px;
+  left: 47.7%;
+  background-color: #e7b622;
+}
+.heading h2::before {
+  content: "";
+  height: 3px;
+  position: absolute;
+  top: 90px;
+  right: 38%;
+  width: 300px;
+  background-color: #e7b622;
+}
+
+
+/* testimonial style */
+.testimonial-bg{
+  background-image: url('https://melody-html.ancorathemes.com/images/bg1-Parallax.jpg');
+}
