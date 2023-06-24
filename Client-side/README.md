@@ -9,7 +9,9 @@ Rythmo Music School is a website designed to provide an interactive platform for
 
 ## **Technology Stack**
 The website is built using the following packages and technologies:
+
 ●	**React.js:** A JavaScript library for building user interfaces.
+
 ●	**React Router:** Used for routing and navigation within the application.
 ●	**Framer Motion:** An animation library used to add dynamic and interactive animations to the website.
 ●	**Axios:** A popular library for making HTTP requests to the server-side API.
