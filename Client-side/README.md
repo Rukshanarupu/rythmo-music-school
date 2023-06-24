@@ -13,9 +13,13 @@ The website is built using the following packages and technologies:
 ●	**React.js:** A JavaScript library for building user interfaces.
 
 ●	**React Router:** Used for routing and navigation within the application.
+
 ●	**Framer Motion:** An animation library used to add dynamic and interactive animations to the website.
+
 ●	**Axios:** A popular library for making HTTP requests to the server-side API.
+
 ●	**React Query (TanStack Query):** Used for efficient and optimized data fetching and caching.
+
 ●	**React Hook Form:** A library for flexible and efficient form validation and handling.
 ●	**JWT Token:** JSON Web Tokens are implemented for secure login and registration systems, ensuring user authentication and authorization.
 
